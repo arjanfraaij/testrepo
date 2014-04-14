@@ -1,9 +1,13 @@
-testrepo
-========
+Test Repo Arjan Fraaij
+======================
 
-This is a test repo 
+This is just a test repository created during the Data Science Toolbox Coursera course.
 
-### This does something? 3 hashes O yeah, header
-## This is an other header? 2 hashes
-# and this? 1 hash
-#### Ok and 4 hashes
+### This is a 3 Hash sign header
+And * would create lists?
+
+* list 1
+* List 2
+* List 3
+
+
